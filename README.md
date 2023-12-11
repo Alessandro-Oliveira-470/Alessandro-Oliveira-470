@@ -1,4 +1,4 @@
-- 👋 Ola, Meu nome  @Alessandro-Oliveira-470
+- 👋 Ola, Meu nome @Alessandro-Oliveira-470
 - 👀 Me interesso por aprender prograçação
 - 🌱 Estou aprendendo o a programar em blocos
 - 💞️ Estou colaborando com gamificação Matemática
